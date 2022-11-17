@@ -21,17 +21,18 @@
   ## Usage 
   1. Run node index.js
   2. Enter info as prompted
-  3. Enjoy your README!
+  3. Enjoy your README!<br />
+  [Application demonstration](https://youtu.be/wVgWObArOJA)
 
   ## License 
   This project uses the MIT license.<br />
   License link: https://opensource.org/licenses/MIT
   
   ## Contributing 
-  TJ
+  thafer1
 
   ## Tests
-  
+  N/A
 
   ## Questions
   If you have questions about this application, please email me for support.  
